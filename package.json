@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejslearning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawad7ali/nodejs.git"
+  },
+  "author": "jawad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawad7ali/nodejs/issues"
+  },
+  "homepage": "https://github.com/jawad7ali/nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
